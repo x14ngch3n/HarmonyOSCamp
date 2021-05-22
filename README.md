@@ -5,4 +5,4 @@ HarmonyOS-SJTU training camp course sources
 https://developer.harmonyos.com/cn/documentation
 
 ## Environment
-* IDE download:https://developer.harmonyos.com/cn/develop/deveco-studio
+IDE download:https://developer.harmonyos.com/cn/develop/deveco-studio
