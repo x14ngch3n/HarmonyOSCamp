@@ -7,8 +7,8 @@ HarmonyOS-SJTU training camp course sources
 * a three weeks long assginment
 
 ## Doc
-Harmony API:https://developer.harmonyos.com/cn/documentation/
-Harmony App Gallery:https://developer.huawei.com/consumer/cn/service/josp/agc/index.html#/
+* Harmony API:https://developer.harmonyos.com/cn/documentation/
+* Harmony App Gallery:https://developer.huawei.com/consumer/cn/service/josp/agc/index.html#/
 
 ## Environment
 * DevEco Studio(win/mac):https://developer.harmonyos.com/cn/develop/deveco-studio/
