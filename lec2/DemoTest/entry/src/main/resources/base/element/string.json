@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "DemoTest"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Phone_Empty Feature Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "editability_description",
+      "value": "Java_Phone_Empty Feature Ability"
+    },
+    {
+      "name": "editability_HelloWorld",
+      "value": "Hello World"
+    }
+  ]
+}

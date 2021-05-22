@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:orientation="vertical"
+    ohos:height="match_parent"
+    ohos:width="match_parent">
+
+    <ScrollView
+        ohos:id="$+id:scrollview"
+        ohos:height="0"
+        ohos:weight="6"
+        ohos:width="match_content">
+
+        <TableLayout
+            ohos:id="$+id:tableLayout"
+            ohos:height="match_content"
+            ohos:width="match_content"
+            ohos:row_count="1"
+            ohos:column_count="2"
+            ohos:orientation="horizontal">
+
+            <DirectionalLayout
+                ohos:id="$+id:layout_movie_one"
+                ohos:height="match_content"
+                ohos:width="match_content"
+                ohos:orientation="vertical"
+                ohos:background_element="red"
+                ohos:padding="5vp">
+
+                <Image
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:image_one"
+                    ohos:image_src="$media:wuxianerji"/>
+
+                <Text
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:text_one"
+                    ohos:text="无线耳机"
+                    ohos:text_size="15fp"
+                    ohos:layout_alignment="horizontal_center"/>
+
+            </DirectionalLayout>
+
+            <DirectionalLayout
+                ohos:id="$+id:layout_movie_two"
+                ohos:height="match_content"
+                ohos:width="match_content"
+                ohos:orientation="vertical"
+                ohos:padding="5vp">
+
+                <Image
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:left_margin="8vp"
+                    ohos:id="$+id:image_two"
+                    ohos:image_src="$media:zhinengyanjing"/>
+
+                <Text
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:text_two"
+                    ohos:text="智能眼镜"
+                    ohos:text_size="15fp"
+                    ohos:layout_alignment="center"/>
+
+            </DirectionalLayout>
+
+            <DirectionalLayout
+                ohos:id="$+id:layout_movie_three"
+                ohos:height="match_content"
+                ohos:width="match_content"
+                ohos:orientation="vertical"
+                ohos:padding="5vp">
+
+                <Image
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:image_three"
+                    ohos:image_src="$media:yinxiang"/>
+
+                <Text
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:text_three"
+                    ohos:text="音响"
+                    ohos:text_size="15fp"
+                    ohos:layout_alignment="horizontal_center"/>
+
+            </DirectionalLayout>
+
+            <DirectionalLayout
+                ohos:id="$+id:layout_movie_four"
+                ohos:height="match_content"
+                ohos:width="match_content"
+                ohos:orientation="vertical"
+                ohos:padding="5vp">
+
+                <Image
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:left_margin="8vp"
+                    ohos:id="$+id:image_four"
+                    ohos:image_src="$media:qijiandian"/>
+
+                <Text
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:text_fou"
+                    ohos:text="旗舰店"
+                    ohos:text_size="15fp"
+                    ohos:layout_alignment="center"/>
+
+            </DirectionalLayout>
+
+            <DirectionalLayout
+                ohos:id="$+id:layout_movie_five"
+                ohos:height="match_content"
+                ohos:width="match_content"
+                ohos:orientation="vertical"
+                ohos:padding="5vp">
+
+                <Image
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:image_five"
+                    ohos:image_src="$media:huyang"/>
+
+                <Text
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:text_five"
+                    ohos:text="胡杨树"
+                    ohos:text_size="15fp"
+                    ohos:layout_alignment="horizontal_center"/>
+
+            </DirectionalLayout>
+
+            <DirectionalLayout
+                ohos:id="$+id:layout_movie_six"
+                ohos:height="match_content"
+                ohos:width="match_content"
+                ohos:orientation="vertical"
+                ohos:padding="5vp">
+
+                <Image
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:left_margin="8vp"
+                    ohos:id="$+id:image_six"
+                    ohos:image_src="$media:shamo"/>
+
+                <Text
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:text_six"
+                    ohos:text="沙漠"
+                    ohos:text_size="15fp"
+                    ohos:layout_alignment="center"/>
+
+            </DirectionalLayout>
+
+            <DirectionalLayout
+                ohos:id="$+id:layout_movie_seven"
+                ohos:height="match_content"
+                ohos:width="match_content"
+                ohos:orientation="vertical"
+                ohos:padding="5vp">
+
+                <Image
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:image_seven"
+                    ohos:image_src="$media:WATCHFIT"/>
+
+                <Text
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:text_seven"
+                    ohos:text="WATCHFIT"
+                    ohos:text_size="15fp"
+                    ohos:layout_alignment="horizontal_center"/>
+
+            </DirectionalLayout>
+
+            <DirectionalLayout
+                ohos:id="$+id:layout_movie_eight"
+                ohos:height="match_content"
+                ohos:width="match_content"
+                ohos:orientation="vertical"
+                ohos:padding="5vp">
+
+                <Image
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:left_margin="8vp"
+                    ohos:id="$+id:image_eight"
+                    ohos:image_src="$media:WATCHGT2"/>
+
+                <Text
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:text_eight"
+                    ohos:text="WATCHGT2"
+                    ohos:text_size="15fp"
+                    ohos:layout_alignment="center"/>
+
+            </DirectionalLayout>
+
+            <DirectionalLayout
+                ohos:id="$+id:layout_movie_nine"
+                ohos:height="match_content"
+                ohos:width="match_content"
+                ohos:orientation="vertical"
+                ohos:padding="5vp">
+
+                <Image
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:image_nine"
+                    ohos:image_src="$media:WATCHGT2PRO"/>
+
+                <Text
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:text_nine"
+                    ohos:text="WATCHGT2PRO"
+                    ohos:text_size="15fp"
+                    ohos:layout_alignment="horizontal_center"/>
+
+            </DirectionalLayout>
+
+            <DirectionalLayout
+                ohos:id="$+id:layout_movie_ten"
+                ohos:height="match_content"
+                ohos:width="match_content"
+                ohos:orientation="vertical"
+                ohos:padding="5vp">
+
+                <Image
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:left_margin="8vp"
+                    ohos:id="$+id:image_ten"
+                    ohos:image_src="$media:xingkonglan"/>
+
+                <Text
+                    ohos:height="match_content"
+                    ohos:width="match_content"
+                    ohos:id="$+id:text_ten"
+                    ohos:text="星空蓝"
+                    ohos:text_size="15fp"
+                    ohos:layout_alignment="center"/>
+
+            </DirectionalLayout>
+
+        </TableLayout>
+
+    </ScrollView>
+
+    <DirectionalLayout
+        ohos:alignment="center"
+        ohos:height="0"
+        ohos:weight="3"
+        ohos:width="match_parent"
+        ohos:padding="20vp"
+        ohos:background_element="$graphic:background_button">
+        <Image
+            ohos:id="$+id:preview"
+            ohos:height="match_parent"
+            ohos:width="match_parent"
+            ohos:scale_mode="zoom_center"
+            />
+    </DirectionalLayout>
+    <DirectionalLayout
+        ohos:alignment="center"
+        ohos:height="0"
+        ohos:weight="1"
+        ohos:width="match_parent">
+        <Button
+            ohos:id="$+id:choose"
+            ohos:background_element="$graphic:background_button"
+            ohos:height="match_content"
+            ohos:width="match_content"
+            ohos:text="选择控制器"
+            ohos:text_size="24vp"
+            />
+    </DirectionalLayout>
+</DirectionalLayout>

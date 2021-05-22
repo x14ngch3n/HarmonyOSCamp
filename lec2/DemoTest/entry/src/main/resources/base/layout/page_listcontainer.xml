@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:padding="16vp">
+    <Button
+        ohos:id="$+id:new_record"
+        ohos:height="match_content"
+        ohos:width="match_content"
+        ohos:background_element="$graphic:background_button"
+        ohos:text="新建"
+        ohos:text_size="120px"
+        ohos:bottom_margin="10vp"
+        ohos:horizontal_center="true"/>
+    <ListContainer
+        xmlns:ohos="http://schemas.huawei.com/res/ohos"
+        ohos:id="$+id:list_container"
+        ohos:height="match_parent"
+        ohos:width="match_parent"
+        ohos:end_margin="2vp"
+        ohos:layout_alignment="horizontal_center"
+        ohos:start_margin="2vp"/>
+</DirectionalLayout>
