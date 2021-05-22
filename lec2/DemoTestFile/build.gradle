@@ -4,13 +4,13 @@ apply plugin: 'com.huawei.ohos.app'
 ohos {
     signingConfigs {
         release {
-            storeFile file('D:\\0505\\debug\\testkeystore.p12')
-            storePassword '00000018155370D996C8F4E9ABC8F53D32583BC2131F1E803C5AD063A28823D1B102F5AD2F37B888'
-            keyAlias = 'test_debug'
-            keyPassword '00000018CC25B2863799FF89EE801C97F0BCEC9806145F028BC365AC3B7EB7BD0D0BB5FFC05DE344'
+            storeFile file('C:\\Users\\10152\\cascades.p12')
+            storePassword '0000001A2E40DBCD030270CD1DF1FFD802935536D309F88D77445B34C2B7CDDDC3CE6F79F1BDE42DEBF1'
+            keyAlias = 'cascades'
+            keyPassword '0000001A31CFBDA6F34B86B2396A8C01ACEDF47FDBC43AF7511A3567B3E6404E6EE9B62D1F2CE5043CD3'
             signAlg = 'SHA256withECDSA'
-            profile file('D:\\0514\\demoDebug.p7b')
-            certpath file('D:\\0505\\debug\\sysuitest.cer')
+            profile file('C:\\Users\\10152\\Downloads\\cascadesDebug.p7b')
+            certpath file('C:\\Users\\10152\\Downloads\\cascades.cer')
         }
     }
     compileSdkVersion 4
