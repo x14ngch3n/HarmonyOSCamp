@@ -2,9 +2,9 @@
 HarmonyOS-SJTU training camp course sources
 
 ## Timeline
-* prerequisite:lec0
-* 2021.5.22:lec1,lec2
-* 2021.5.29:lec3,lec4
+* prerequisite:`lec0`
+* 2021.5.22:`lec1`,`lec2`
+* 2021.5.29:`lec3`,`lec4`
 * a three weeks long assginment
 
 ## Doc
