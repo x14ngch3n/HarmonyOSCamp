@@ -13,5 +13,5 @@ HarmonyOS-SJTU training camp course sources
 
 ## Environment
 * DevEco Studio(win/mac):https://developer.harmonyos.com/cn/develop/deveco-studio/
-* rooted Huawei MATE30 Pro
+* rooted Huawei MATE30 Pro with HarmonyOS
 * type-c data cable
