@@ -2,8 +2,9 @@
 HarmonyOS-SJTU training camp course sources
 
 ## Timeline
-* 5.22:lec1,lec2
-* 5.29:lec3,lec4
+* prerequisite:`lec0`
+* 2021.5.22:`lec1`,`lec2`
+* 2021.5.29:`lec3`,`lec4`
 * a three weeks long assginment
 
 ## Doc
@@ -12,5 +13,5 @@ HarmonyOS-SJTU training camp course sources
 
 ## Environment
 * DevEco Studio(win/mac):https://developer.harmonyos.com/cn/develop/deveco-studio/
-* rooted Huawei MATE30 Pro
+* rooted Huawei MATE30 Pro with HarmonyOS
 * type-c data cable
